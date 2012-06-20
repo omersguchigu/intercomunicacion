@@ -1,0 +1,16 @@
+
+name = Intercomunicacion
+description = Tema para el proyecto de intercomunicacion.
+package = Core
+version = VERSION
+core = 7.x
+
+stylesheets[all][] = css/style.css
+
+regions[header] = Header
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[footer] = Footer
+
+
